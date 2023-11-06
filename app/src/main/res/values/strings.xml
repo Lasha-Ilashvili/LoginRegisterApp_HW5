@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginRegisterApp_HW5</string>
+    <string name="register_text">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="terms_and_policy">By signing up, you agree to Photo’s <u>Terms of Service</u> and <u>Privacy Policy</u>.</string>
+    <string name="log_in">Log in</string>
+</resources>
